@@ -23,4 +23,4 @@ Analyze a motor imagery BCI data-set from a chronic stroke patient in order to o
 
 
 ## Slides
-This project was done as part of the [2025 BR41N.IO Hackathon](https://www.br41n.io/IEEE-SMC-2025). You can find the **slides** to this project **[here]()**.  
+This project was done as part of the [2025 BR41N.IO Hackathon](https://www.br41n.io/IEEE-SMC-2025). You can find the **slides** to this project **[here](https://docs.google.com/presentation/d/1Mr9dlTFuRLM_r3UYVfcZjhfFUKYphmid/edit?usp=drive_link&ouid=110832572015310054335&rtpof=true&sd=true)**.  
